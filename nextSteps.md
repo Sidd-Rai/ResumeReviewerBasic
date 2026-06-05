@@ -2,7 +2,7 @@
 - implement streaming of response + a nice animation
 - implement token limitation
 - display output text in a better way (a different output box?)
-- add a model selection dropdown
+- add graphs
 - add a readme file
 - implement multiple scoring metrics
 - pre process resume text before sending
